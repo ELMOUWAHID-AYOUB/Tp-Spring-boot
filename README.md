@@ -59,9 +59,9 @@ Affichez tous les etudiants ,filiéres ,roles.
 
 ###  1_Afficher :
 
-(https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/4a215f44-65c3-437c-a05d-e0d4f99c36cf)
+![get](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/4a215f44-65c3-437c-a05d-e0d4f99c36cf)
 
-![get_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/37491db9-20b8-4a1d-a9d0-89f8ffb1269b)![get]
+![get_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/37491db9-20b8-4a1d-a9d0-89f8ffb1269b)
 
 ###  2_Ajouter :
 
