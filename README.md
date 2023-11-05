@@ -143,7 +143,6 @@ Affichez tous les etudiants ,filiéres ,roles.
 
 ![get_filiere_byid_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/470b868f-e108-4e6a-9670-4d72abcfe389)
 
-###  5_Les etudiants d' un filiere :
 
 ###  Role :
 ![Capture d’écran 2023-11-05 001434](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/f9cc7e63-0d85-4044-af3e-69992a1362f6)
