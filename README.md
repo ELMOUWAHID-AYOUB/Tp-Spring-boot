@@ -23,17 +23,17 @@ Swagger :Swagger est un ensemble d'outils open source qui aide les développeurs
 
  Opérations CRUD (Create , Delete ,update) pour etudiant:
 
-   L'utilisateur dispose de plusieurs fonctionnalités pour gérer les etudiants dans le système. Tout d'abord, il peut ajouter une nouvelle etudiant en spécifiant des détails tels que firstname , lastname , telephone et l'utilisateur peut supprimer définitivement une etudiant spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système , et en fin il peut modifié les deférentes champs de l'étudiant.
+   1_L'utilisateur dispose de plusieurs fonctionnalités pour gérer les etudiants dans le système. Tout d'abord, il peut ajouter une nouvelle etudiant en spécifiant des détails tels que firstname , lastname , telephone et l'utilisateur peut supprimer définitivement une etudiant spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système , et en fin il peut modifié les deférentes champs de l'étudiant.
 
-  Opérations CRUD (Create , Delete ,update) pour role:
+  2_Opérations CRUD (Create , Delete ,update) pour role:
 
    L'utilisateur dispose de plusieurs fonctionnalités pour gérer les roles dans le système. Tout d'abord, il peut ajouter un nouvelle role en spécifiant des détails tels que le nom de role  et l'utilisateur peut supprimer définitivement un role spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à ce role dans le système , et en fin il peut modifié les deférentes champs de role.
 
-   Opérations CRUD (Create , Delete ,update) pour filiere: 
+  3_Opérations CRUD (Create , Delete ,update) pour filiere: 
 
  L'utilisateur dispose de plusieurs fonctionnalités pour gérer les filieres dans le système. Tout d'abord, il peut ajouter une nouvelle filiere en spécifiant des détails tels que code , nom  et l'utilisateur peut supprimer définitivement une filiere spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système,et en fin il peut modifié les deférentes champs de filiére.
 
-   D'autre fonctionalité:
+   4_D'autre fonctionalité:
   
 Affichez les etudiants d'un filiere.
 
