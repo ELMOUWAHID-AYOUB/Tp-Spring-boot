@@ -70,34 +70,141 @@ Affichez tous les etudiants ,filiéres ,roles.
 ![POST_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/a4db24aa-c9c6-464b-b733-557ba3a4e5ab)
 
 
-###  3-Modifié :
+###  3_Supprimé :
 
-###  4_Supprimé :
+![delete-filiere-by-student-Id_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/f7505129-99fa-4f67-b843-b88a3550ed09)
 
 ![delete-filiere-by-student-Id_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/e17e580e-70dd-4d07-8a33-b4e2e4ab9067)
 
+###  4-Get-filiere-by-student-Id:
+
+![get-filiere-by-student-Id_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/363f0c33-cb83-4ec4-8dbf-ec08f725b093)
+
+![get-filiere-by-student-Id_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/d57495b0-2359-4e81-a7a8-398c0713a2a3)
+
+###  5_Get-role-by-student-Id:
+
+![get-role-by-student-Id_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/840fbf6c-3365-4b46-bcdb-52e54e72a373)
+
+![get-role-by-student-Id-2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/cd71abc0-4102-42d6-bc16-a9a768bf3438)
+
+###  6_Get-etudiantbyid:
+
+![get_etudiantbyid_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/7652e7b8-1fa4-46ce-a4fc-47b52604c58b)
+
+![get_etudiantbyid_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/5fed9045-3f95-46c4-b66b-66113dd34c49)
 
 ###  Filiere :
 
+![Capture d’écran 2023-11-05 001501](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/d7cc1dbc-8f10-4bc6-90c2-a3c58d2202eb)
+
+
+
 ###  1_Afficher :
+
+![GET](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/48198413-a3af-40ed-849c-e977eb33bd4f)
+
+![GET_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/34fa7bd6-fab1-480e-ae37-f6895811b19a)
+
+![get_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/ba7922f5-3285-4997-a10f-eacec53fe3e4)
+
+![get_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/553c1615-935b-4eee-a48d-609ee43c2722)
+
 
 ###  2_Ajouter :
 
+![POST](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/83999317-727a-4e2f-962c-ad388ec07f78)
+
+![POST_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/1dc39971-c333-4d2c-8a20-0eca1874318a)
+
+![post_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/c588c6ba-84af-41f4-8078-185a8d5bb74e)
+
+![post_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/8af76ead-a164-4d09-b8b5-b5a6d36e08de)
+
+
 ###  3-Modifié :
 
+
+![put_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/82851c3d-1c71-44fb-9568-b96e8c02bbf1)
+
+![put_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/4fc5ea91-1d1e-4324-80c0-a8cf9ea95b4c)
+
+![patch_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/f9d88750-35bf-4ded-9c20-24168fe2b0e0)
+
+![patch_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/acd7f973-a1c5-4ac7-8db3-2af0e33d1fe1)
+
 ###  4_Supprimé :
+
+![DELET_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/b0fe82ba-ca24-4460-ad38-29ca245b15ae)
+
+![DELET_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/41984bc6-a35c-44a1-a392-cc6087aba742)
+
+###  5_Get-filierebyid:
+
+![get_filiere_byid_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/470b868f-e108-4e6a-9670-4d72abcfe389)
 
 ###  5_Les etudiants d' un filiere :
 
 ###  Role :
+![Capture d’écran 2023-11-05 001434](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/f9cc7e63-0d85-4044-af3e-69992a1362f6)
 
 ###  1_Afficher :
 
+![get](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/4194d274-8bfe-4aff-a9dd-63afdb4351c8)
+
+
+
+![get_role_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/b1a1bbd2-fedf-40d2-bf76-c9b07d8c6bab)
+
+
+![get_role_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/902391c6-e948-49a2-8635-6e6f5255ed4d)
+
 ###  2_Ajouter :
+
+
+
+![POST](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/001307c4-01fd-4300-9dce-02bc5f861673)
+
+![POST_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/7706ae2a-15b5-4cc5-9c78-7f041ff28ac0)
+
+
+![post_etudiant_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/ae3e0a4b-91f8-4140-b826-ebf2ff3d3cb1)
+
+![post_etudiant_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/86ed981d-78a7-4828-8d81-af973efea749)
+
 
 ###  3-Modifié :
 
+
+![put_role_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/407b0a88-64b7-4660-b8a9-8e6c6cd12958)
+
+![put_role_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/b4f8526f-8965-45ea-9aba-8d68169ca9b5)
+
+
+![patch_role_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/d2278aa7-4a33-4834-8690-981fccbb1c44)
+
+![patch_role_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/1ac89179-24ca-407f-84cf-d300c183672f)
+
+
+
+
+
 ###  4_Supprimé :
+
+
+![delete_role_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/86e20754-ba90-4ea0-8770-1beccaa2bf71)
+
+![delete_role_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/f72d91a7-8f3f-4413-8c32-c0e51e1b309f)
+
+
+
+###  5_Get_rolebyid :
+
+
+![get_rolebuid_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/6e6378ef-924a-4bd5-94e8-9740b0c828b7)
+
+![get_rolebyid_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/4d465153-34b9-4c3c-8bf4-07f41ad2d089)
+
 
 ###  comment exécuter le projet 
 
