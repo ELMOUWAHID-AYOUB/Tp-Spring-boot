@@ -221,7 +221,7 @@ Exécutez la projet.
 
 Etape3:
 
-Une fois que l'application  est lancée, vous devriez tapez localhost:8088/swagger-ui/index.htm  et voir une page web de swagger conviviale avec des fonctionnalités pour manipulez les défferents champs de filiere , students et role .
+Une fois que l'application  est lancée, vous devriez tapez localhost:8088/swagger-ui/index.htm  et voir une page web de swagger convenable avec des fonctionnalités pour manipulez les défferents champs de filiere , students et role .
 Utilisez les fonctionnalités appropriées pour gérer les entites  en fonction de vos besoins.
 
 ###  Conclusion :
