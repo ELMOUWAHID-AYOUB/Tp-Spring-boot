@@ -47,9 +47,11 @@ Affichez tous les etudiants ,filiéres ,roles.
 
 1  Digramme de classe :
 
-
+![Diagramme_de_classe](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/ff176204-46ab-4d4a-b5a3-d22c8d00dabb)
 
 2 Chéma base de donnés :
+
+![base_de_donnes](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/e5667175-987e-4271-b44d-1ca580b47b4b)
 
 ###  Etudiant :
 
