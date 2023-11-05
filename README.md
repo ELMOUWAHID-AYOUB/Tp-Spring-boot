@@ -55,13 +55,27 @@ Affichez tous les etudiants ,filiéres ,roles.
 
 ###  Etudiant :
 
+![page](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/9081cab8-3715-47e4-93f9-5feb18b29a36)
+
 ###  1_Afficher :
 
+(https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/4a215f44-65c3-437c-a05d-e0d4f99c36cf)
+
+![get_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/37491db9-20b8-4a1d-a9d0-89f8ffb1269b)![get]
+
 ###  2_Ajouter :
+
+![POST](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/655bf8e9-af75-4524-bb27-83c0477a81b4)
+
+![POST_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/a4db24aa-c9c6-464b-b733-557ba3a4e5ab)
+
 
 ###  3-Modifié :
 
 ###  4_Supprimé :
+
+![delete-filiere-by-student-Id_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/e17e580e-70dd-4d07-8a33-b4e2e4ab9067)
+
 
 ###  Filiere :
 
